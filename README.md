@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## 📲 加入 AI Spark 社群
+## 📲 加入 AI Spark 付费社群
 
 <img src="assets/file-20260605133042988.png" width="260" alt="扫码添加 Cheery / Yuzu 进群" />
 
